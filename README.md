@@ -1,9 +1,3 @@
-#-----------UNDER CONSTRUCTION-------------
-
-MLBOX is no longer being maintained. Need to remove.
-Auto-sklearn has a new verion out. Need to update notebooks.
-Tpot also has updates that need to be incorporated.
-Both use dask for parallelization now.
 
 #------------------------------------------
 
@@ -24,9 +18,9 @@ There are many proprietary and open source AutoML tools available. This project 
 
 * [auto-sklearn.ipynb](./view/auto-sklearn.ipynb), a how-to notebook
 * [tpot.ipynb](./view/tpot.ipynb), a how-to notebook
-* [mlbox.ipynb](./view/MLBox.ipynb), a how-to notebook
-* AutoML Launcher, associated [configuration file](./view/launcher_config.txt), and [launcher set up doc](./view/launcher_setup.md)
-* [automl.py](./view/automl.py), the code behind the Launcher
+* [H20.ipynb](./view/H20.ipynb), a how-to notebook
+* [tpot_std.py](./view/tpot_std), the code behind the tpot launcher
+* [tpot_dask.py](./view/tpot_std), the code behind the tpot launcher with dask
 * sample data files
 
 ## Suggested Actions
